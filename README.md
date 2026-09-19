@@ -21,6 +21,9 @@ Gosto de construir coisas com IA embutida de forma útil, não decorativa: gera�
 **DiscordForge** (`rochwxs`) — *criado, atualmente fora do ar*
 Ferramenta de configuração de servidores Discord usando IA para gerar estruturas a partir do input do usuário. Frontend inspirado na linguagem visual da Anthropic — paleta monocromática, tipografia editorial, animações via IntersectionObserver sem libs externas. Backend em Next.js API routes com stack de segurança própria: rate limiting, detecção de bot, sanitização de input, CORS.
 
+**Discord Tools**
+Conjunto de ferramentas para Discord: clone de servidor, apagar mensagens em DMs e amizades, entre outras. Disponível em [discord.rochwxs.lol](https://discord.rochwxs.lol).
+
 **SUD**
 App de chat com IA, front-end puro, integrado à `api.rochwxs.lol/chat`. Design preto e branco, DM Serif Display + DM Sans, histórico via localStorage, entrada por voz e texto-para-fala.
 
@@ -46,6 +49,6 @@ Preto, branco, tipografia. Sem cor, sem gradiente, sem sombra. Bordas com no má
 
 <div align="center">
 
-[GitHub](https://github.com/saintsdev) · [rochwxs](https://rochwxs.lol)
+[GitHub](https://github.com/speedgvs-maker) · [rochwxs](https://rochwxs.lol)
 
 </div>
