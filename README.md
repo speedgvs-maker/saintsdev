@@ -1,0 +1,45 @@
+<div align="center">
+
+# saintsdev
+
+**frontend & fullstack developer** — construindo sob a marca `rochwxs`
+
+</div>
+
+---
+
+### sobre
+
+Desenvolvedor focado em frontend e aplicações fullstack com Next.js. Trabalho com uma estética própria — editorial, monocromática, sem cor, sem gradiente, sem sombra. Tipografia forte, bordas discretas, interface que não grita.
+
+Gosto de construir coisas com IA embutida de forma útil, não decorativa: geração de estrutura, automação, chat.
+
+---
+
+### projetos
+
+**DiscordForge** (`rochwxs`)
+Ferramenta de configuração de servidores Discord usando IA para gerar estruturas a partir do input do usuário. Frontend inspirado na linguagem visual da Anthropic — paleta monocromática, tipografia editorial, animações via IntersectionObserver sem libs externas. Backend em Next.js API routes com stack de segurança própria: rate limiting, detecção de bot, sanitização de input, CORS.
+
+**SUD**
+App de chat com IA, front-end puro, integrado à `api.rochwxs.lol/chat`. Design preto e branco, DM Serif Display + DM Sans, histórico via localStorage, entrada por voz e texto-para-fala.
+
+---
+
+### stack
+
+`Next.js` · `TypeScript` · `Zod` · `Tailwind` · `Node.js`
+
+---
+
+### estética
+
+Preto, branco, tipografia. Sem cor, sem gradiente, sem sombra. Bordas com no máximo 6px de raio. Se não precisa estar ali, não está.
+
+---
+
+<div align="center">
+
+[GitHub](https://github.com/speedgvs) · [rochwxs](https://rochwxs.lol)
+
+</div>
